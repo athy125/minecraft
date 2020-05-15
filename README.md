@@ -2,7 +2,7 @@
 
 ```shell
 pip install pyglet
-git clone https://github.com/Hopson97/Minecraft-In-5-Seconds.git
+git clone https://github.com/athy125/minecraft
 cd Minecraft-In-5-Seconds
 python main.py
 ```
